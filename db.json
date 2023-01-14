@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "shipon",
+      "email": "shipon@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Mehedi",
+      "email": "mehedi@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "talib",
+      "email": "talib@gmail.com"
+    },
+    {
+      "name": "hafiz",
+      "email": "miya",
+      "id": 4
+    },
+    {
+      "name": "masud",
+      "email": "masud@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "shimanto",
+      "email": "shimanto@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "rony",
+      "email": "rony@gmail.com",
+      "id": 7
+    }
+  ],
+  "channel": [
+    {
+      "id": "laraping",
+      "course": [
+        "React",
+        "Vue",
+        "Tailwind"
+      ]
+    },
+    {
+      "id": "larapingtwo",
+      "course": [
+        "Html",
+        "Css",
+        "Php"
+      ]
+    }
+  ]
+}
