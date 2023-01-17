@@ -5,13 +5,15 @@ import Users from "../src/component/Users"
 import DependentQuery from "../src/component/DependentQuery"
 import Todo from "../src/component/AddTodo"
 import User from '../component/User'
+import InfinitePagination from '../component/InfinitePagination'
 export default function Home() {
   return (
     
     <div>
       {/* <DependentQuery id={1} /> */}
       {/* <Todo /> */}
-      <User />
+      {/* <User /> */}
+      <InfinitePagination />
     </div>
   )
 }
